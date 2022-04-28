@@ -1,0 +1,24 @@
+{
+  "name": "hello-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "api that returns hello with your name",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya-vatsalya/hello-api.git"
+  },
+  "author": "Surya Vatsalya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surya-vatsalya/hello-api/issues"
+  },
+  "homepage": "https://github.com/surya-vatsalya/hello-api#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
